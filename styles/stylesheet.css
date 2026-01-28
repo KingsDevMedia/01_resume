@@ -1,3 +1,13 @@
+:root,
+:host {
+    --fa-family-brands: "Font Awesome 7 Brands";
+    --fa-font-brands: normal 400 1em/1 var(--fa-family-brands);
+}
+
+.fa-unity {
+    --fa: "\e049";
+}
+
 /* body {
     margin: auto;
 } */
@@ -26,7 +36,6 @@ li>a {
 .header-section img {
     width: 100%;
 }
-
 
 
 
